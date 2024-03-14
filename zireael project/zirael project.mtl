@@ -1,0 +1,38 @@
+# Blender 4.0.2 MTL File: 'zirael project.blend'
+# www.blender.org
+
+newmtl Advanced_Siler_Wolven_Sword_Blade
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Blade_BaseColor.png
+map_Ns C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Blade_Roughness.png
+map_refl C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Blade_Metallic.png
+map_Ke C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Blade_Emissive.png
+map_Bump -bm 1.000000 C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Blade_Normal.png
+
+newmtl Advanced_Silver_Wolven_Sword_Handle
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Handle_BaseColor.png
+map_Ns C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Handle_Roughness.png
+map_refl C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Handle_Metallic.png
+map_Ke C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Handle_Emissive.png
+map_Bump -bm 1.000000 C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Handle_Normal.png
+
+newmtl Advanced_Silver_Wolven_Sword_Logo
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Logo_BaseColor.png
+map_Ns C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Logo_Roughness.png
+map_refl C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Logo_Metallic.png
+map_Ke C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Logo_Emissive.png
+map_Bump -bm 1.000000 C:/Advanced Silver Wolven Sword_Advanced Silver Wolven Sword Logo_Normal.png
